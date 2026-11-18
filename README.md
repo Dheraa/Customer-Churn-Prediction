@@ -45,6 +45,12 @@ Recall for the churn class is particularly important because the project aims to
 
 The application allows users to enter customer details and receive a churn prediction with its estimated probability.
 
+## Live Demo
+
+Try the deployed application here:
+
+[Customer Churn Predictor](https://customer-churn-predictor-d.streamlit.app/)
+
 ## Project Structure
 
 ```text
