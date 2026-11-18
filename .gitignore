@@ -15,3 +15,6 @@ data/
 
 # Environment variables
 .env
+
+# Streamlit secrets
+.streamlit/secrets.toml

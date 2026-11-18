@@ -9,10 +9,10 @@ The objective is to identify customers at risk of leaving so that businesses can
 
 ## Dataset
 
-- Dataset: Telco Customer Churn
-- Records: 7,043 customers
-- Features: 21 columns
-- Target variable: Churn
+- **Dataset:** Telco Customer Churn
+- **Records:** 7,043 customers
+- **Features:** 21 columns
+- **Target variable:** Churn
 
 ## Technologies Used
 
@@ -30,7 +30,7 @@ The objective is to identify customers at risk of leaving so that businesses can
 - Logistic Regression
 - Random Forest Classifier
 
-## Evaluation
+## Model Evaluation
 
 Models are evaluated using:
 
@@ -49,7 +49,6 @@ The application allows users to enter customer details and receive a churn predi
 
 ```text
 Customer-Churn-Prediction/
-├── data/
 ├── models/
 ├── customer_churn.ipynb
 ├── streamlit_app.py
@@ -59,4 +58,4 @@ Customer-Churn-Prediction/
 
 ## Author
 
-DerexDcoder
+**DerexDcoder**
